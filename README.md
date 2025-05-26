@@ -79,7 +79,7 @@ This file belongs in your project under `core/help.go`.
 
 ## 👤 Author
 
-Maintained by \[Your Name or Org]
+Maintained by timAdurah telegram @the_incognitus
 
 ```
 

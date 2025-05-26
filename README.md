@@ -83,5 +83,5 @@ Maintained by timAdurah telegram @the_incognitus
 
 ```
 
-Let me know if you'd like this adapted for Godoc format or to include examples using the full tool.
+Contact me if you need your copy @the_incognitus on telegram or check our telegram channel @consolesoft
 ```

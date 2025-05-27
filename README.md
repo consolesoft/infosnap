@@ -24,17 +24,8 @@ The `core` package is designed to offer a built-in command-line help system for 
 
 ## 🛠️ Usage
 
-Simply call the `showHelp()` function in your main program when `--help` is passed as a command-line argument:
+ `--help` all how to use will show:
 
-```go
-import "yourmodule/core"
-
-func main() {
-    if arg == "--help" {
-        core.ShowHelp()
-    }
-}
-````
 
 ---
 
@@ -73,7 +64,7 @@ func main() {
 
 ## 📁 Location
 
-This file belongs in your project under `core/help.go`.
+all result will be in results/
 
 ---
 

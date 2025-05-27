@@ -1,7 +1,7 @@
 
 ---
 
-````markdown
+
 # 🧠 Core Package – InfoSnap CLI Web Scrapper
 
 This package provides the core functionality for the `InfoSnap` CLI tool. It includes a helper function `showHelp()` that displays a styled help menu with all available commands for managing and interacting with data scraping sessions.
@@ -75,4 +75,4 @@ Maintained by timAdurah telegram @the_incognitus
 ```
 
 Contact me if you need your copy @the_incognitus on telegram or check our telegram channel @consolesoft
-```
+

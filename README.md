@@ -2,15 +2,15 @@
 ---
 
 
-# 🧠 Core Package – InfoSnap CLI Web Scrapper
+# InfoSnap CLI Web Scrapper
 
-This package provides the core functionality for the `InfoSnap` CLI tool. It includes a helper function `showHelp()` that displays a styled help menu with all available commands for managing and interacting with data scraping sessions.
+`InfoSnap` CLI tool.
 
 ---
 
 ## 📦 Overview
 
-The `core` package is designed to offer a built-in command-line help system for users of the `InfoSnap` tool. This tool allows you to start, view, manage, and delete scraping sessions, making it easy to extract and interact with structured web data using the browser extension.
+Infosnap is a Cli tool to scrape data from any webiste by start infosnap server and add extension to your chrome broswer
 
 ---
 
@@ -39,7 +39,6 @@ The `core` package is designed to offer a built-in command-line help system for 
 | `--help`                | Display this help menu.                                                  |
 | `--sessions`            | List all saved sessions.                                                 |
 | `--session export <id>` | Export fine-tuned scraped data for the given session ID.                 |
-| `--session view <id>`   | View filtered scraped data for the given session ID.                     |
 | `--session raw <id>`    | View raw scraped data for the given session ID.                          |
 | `--session delete <id>` | Delete a specific session by ID.                                         |
 | `--session delete all`  | Delete all sessions and data.                                            |
